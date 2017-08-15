@@ -18,9 +18,9 @@ How it works?
 
 3. Default folder location: "C:\Program Files (x86)\Glacier\GlacierD\"
 
-4. execute glacierd.exe file in CMD, add arguments.
+4. Execute glacierd.exe file in CMD, add arguments.
 
-5. Use may use "glacierd.exe --help" for arguments.
+5. You may use "glacierd.exe --help" for arguments.
 
 - accessKey: AWS accessKey
 - secretKey: AWS secretKey
