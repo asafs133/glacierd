@@ -6,7 +6,7 @@ Dependencies:
 =============
 - Windows OS
 - .NET 4.5
-- AWS CLI tool (for windows/linux it doesn't matter)
+- AWS CLI tool https://aws.amazon.com/cli/ (for windows/linux it doesn't matter)
 
 How it works?
 =============
