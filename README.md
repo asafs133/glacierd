@@ -25,7 +25,7 @@ How it works?
 - accessKey: AWS accessKey
 - secretKey: AWS secretKey
 - region: The region who holds the vault
-- destinationPath: The folder to which I want to download the filesץ
+- destinationPath: The folder to which I want to download the files
 - vaultName: AWS vaultName
 - jsonFile: Output json file from AWS CLI (For more information about how to generate inventory json file, see below)
 
