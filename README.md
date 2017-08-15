@@ -10,7 +10,7 @@ Dependencies:
 
 How it works?
 =============
-1. Download two file (from: https://github.com/asafs133/glacierd):
+1. Download two file (from: https://github.com/asafs133/glacierd/releases):
    - GlacierDSetup.msi
    - setup.exe
 
